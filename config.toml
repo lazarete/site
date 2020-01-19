@@ -1,6 +1,5 @@
-baseurl = "https://example.org/"
-languageCode = "en-us"
-title = "hugo-hero-theme"
+baseURL = "/"
+themesDir = "themes"
 theme = "hugo-hero-theme"
 googleAnalytics = ""
 
