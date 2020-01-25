@@ -81,7 +81,7 @@ home = ["HTML", "RSS", "Algolia"]
   linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
+  github         = "https://github.com/"
   wechat         = "your wechat qr code image"
 #  medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"
@@ -93,15 +93,15 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
+  title = ""
+  href =  "https://zhaozhihan"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
+  href =  "https://martinfowler"
   [[params.bookmark_link]]
   title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
+  href =  "http://www.servicemesher"
   [[params.bookmark_link]]
   title =  "Pxhere"
   href = "https://pxhere.com"
